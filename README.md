@@ -75,4 +75,4 @@ awesome-product-thought
 
 #### [`Facebook创始人扎克伯格分享创业心路历程`](facebook-founder-share/README.md)
 
-推荐理由：使命、用心、向前看。
+推荐理由：使命、用心、向前看。。
